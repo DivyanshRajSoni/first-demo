@@ -1,4 +1,4 @@
 # first-demo
 it is the learning towards github
 <br>
-Author : Divyansh Raj Soni
+Author : Divyansh Raj Soni (Hero)
